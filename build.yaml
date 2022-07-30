@@ -1,7 +1,4 @@
-board: nice_nano_v2
-shield: pinkiesout
-
 # ---
-# include:
-#   - board: nice_nano_v2
-#     shield: pinkiesout
+include:
+  - board: nice_nano_v2
+    shield: pinkiesout
