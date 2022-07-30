@@ -23,10 +23,10 @@
         Symbols {
             label = "Symbols";
             bindings = <
- &trans     &kp F1    &kp F2    &kp F3    &kp F4     &kp F5  &kp F6          &kp F7     &kp F8    &kp F9    &kp F10    &kp F11    &kp F12  &kp DELETE
- &trans   &kp EXCL    &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &trans          &trans  &kp CARET  &kp AMPS  &kp ASTRK  &kp UNDER  &kp EQUAL      &trans
- &trans  &kp MINUS  &kp LBKT  &kp LBRC  &kp LPAR     &kp LT  &trans          &trans     &kp GT  &kp RPAR   &kp RBRC   &kp RBKT   &kp PLUS      &trans
- &trans     &trans    &trans    &trans    &trans     &trans  &trans          &trans     &trans    &trans     &trans     &trans     &trans      &trans
+ &trans     &kp F1    &kp F2    &kp F3    &kp F4     &kp F5  &kp F6          &kp F7     &kp F8    &kp F9    &kp F10    &kp F11    &kp F12  &kp DEL
+ &trans   &kp EXCL    &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &trans          &trans  &kp CARET  &kp AMPS  &kp ASTRK  &kp UNDER  &kp EQUAL   &trans
+ &trans  &kp MINUS  &kp LBKT  &kp LBRC  &kp LPAR     &kp LT  &trans          &trans     &kp GT  &kp RPAR   &kp RBRC   &kp RBKT   &kp PLUS   &trans
+ &trans     &trans    &trans    &trans    &trans     &trans  &trans          &trans     &trans    &trans     &trans     &trans     &trans   &trans
                       &trans    &trans    &trans     &trans  &trans          &trans     &trans    &trans     &trans     &trans
             >;
         };
