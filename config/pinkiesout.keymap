@@ -35,7 +35,7 @@
             label = "Settings";
             bindings = <
                               &none            &none            &none            &none            &none            &none   &none           &none              &none             &none              &none         &none         &none   &none
-      &rgb_ug RGB_COLOR_HSB(0,0,30)  &rgb_ug RGB_TOG  &rgb_ug RGB_EFR  &rgb_ug RGB_EFF            &none            &none   &none           &none              &none        &bt BT_PRV         &bt BT_NXT         &none         &none   &none
+      &rgb_ug RGB_COLOR_HSB(0,0,20)  &rgb_ug RGB_TOG  &rgb_ug RGB_EFR  &rgb_ug RGB_EFF            &none            &none   &none           &none              &none        &bt BT_PRV         &bt BT_NXT         &none         &none   &none
  &rgb_ug RGB_COLOR_HSB(224,100,100)            &none  &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI  &rgb_ug RGB_SPI   &none           &none         &bt BT_CLR      &bt BT_SEL 0       &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3   &none
  &rgb_ug RGB_COLOR_HSB(278,100,100)            &none  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD   &none           &none  &ext_power EP_TOG  &ext_power EP_ON  &ext_power EP_OFF  &out OUT_USB  &out OUT_BLE   &none
                                                                 &none            &none            &none            &none   &none           &none              &none             &none              &none         &none
