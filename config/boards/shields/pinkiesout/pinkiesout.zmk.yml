@@ -4,6 +4,7 @@ name: pinkiesout
 type: shield
 url: https://github.com/sadekbaroudi/pinkies-out/
 requires: [pro_micro]
+exposes: [i2c_oled]
 features:
   - keys
-
+  - display
